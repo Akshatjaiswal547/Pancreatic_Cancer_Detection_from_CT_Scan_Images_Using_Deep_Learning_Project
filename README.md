@@ -115,7 +115,7 @@ This tool is aimed at medical professionals, radiologists, and healthcare resear
 ### 👨‍💻 **Team Members**
 
 * Akshat Jaiswal
-* Pratik Sao ![](https://github.com/ipratiksao)
+* Pratik Sao
 
 > **Institution:** Lakhmi Chand Institute of Technology, Bilaspur
 > **Department:** Computer Science & Engineering
